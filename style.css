@@ -103,7 +103,7 @@ body {
     
 }
 
-.card . a:hover {
+.card  a:hover {
     color: var(--orange);
     background-color: var(--white);
     cursor: pointer;
